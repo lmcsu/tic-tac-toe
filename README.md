@@ -24,8 +24,8 @@
 
 # Tic-Tac-Toe game on JavaScript
 
-## Includes artificial intelligence (AI) algorithm
+## Includes intellectual artificial intelligence AI algorithm
 
-This project shown how you can simply create your own Tic-Tac-Toe artificial intelligence (AI) algorithm.
+This project shows how you can simply create your own Tic-Tac-Toe artificial intelligence (AI) algorithm.
 
 [See our DEMO](https://lmcsu.github.io/tic-tac-toe) https://lmcsu.github.io/tic-tac-toe
